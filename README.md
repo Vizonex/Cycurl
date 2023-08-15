@@ -9,3 +9,4 @@ Cython Bindings for Libcurl Inspired by PyCurl made to be faster than synchronou
 
 - Unix Versions should be easy as day to compile as well. 
 - The File should be small enough so that pyinstaller will not create a huge executable full of bulk.
+- Make it so that custom python sockets such as proxy chains and tor can all be forwarded.
